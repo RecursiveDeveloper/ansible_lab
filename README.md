@@ -22,6 +22,8 @@ I'm a junior DevOps engineer with some expertise in BackEnd development using Ja
 
 Set up and provision your own local Minikube cluster using Vagrant to deploy an Ubuntu VM and Ansible roles to provision a one node Minikube cluster along with all the tools needed to interact with it.
 
+![Simple_Ansible-lab_diagram](https://raw.githubusercontent.com/RecursiveDeveloper/static-media-content/refs/heads/main/Simple_Ansible-lab_diagram.png)
+
 ## Tech Stack 
 
 - **Client:** ---
