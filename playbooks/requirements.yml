@@ -1,0 +1,5 @@
+---
+
+- name: geerlingguy.docker
+- name: andrewrothstein.kubectl
+- name: andrewrothstein.minikube
